@@ -112,5 +112,7 @@ end
 
 endmodule
 # OUTPUT
+![image](https://github.com/padhmapriya06/MOORE_1011/assets/160568779/d42006a8-8a9d-4d32-8456-73b225c69e20)
+
 # RESULT
 Thus the verilog program for MOORE Sequence Detector for 1011 has been simulated and verified successfully.
